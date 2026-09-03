@@ -1,9 +1,7 @@
 {
-  "name": "mern-video-streaming",
-  "author": "foyzulkarim",
-  "licence": "MIT",
+  "name": "Andy-Video-Streaming",
+  "author": "Aniket Pawar",
   "version": "1.0.0",
-  "private": false,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
